@@ -19,7 +19,7 @@
     "url": "https://github.com/potch/qwantz-comics/issues"
   },
   "homepage": "https://github.com/potch/qwantz-comics",
-  "dependencies": {
+  "devDependencies": {
     "cheerio": "^0.17.0",
     "request": "^2.45.0"
   }
