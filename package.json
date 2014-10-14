@@ -1,0 +1,26 @@
+{
+  "name": "qwantz-comics",
+  "version": "1.0.0",
+  "description": "Information about which Dinosaur Comic corresponds to which comic image URL",
+  "main": "dino.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potch/qwantz-comics.git"
+  },
+  "keywords": [
+    "qwantz"
+  ],
+  "author": "potch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potch/qwantz-comics/issues"
+  },
+  "homepage": "https://github.com/potch/qwantz-comics",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.45.0"
+  }
+}
